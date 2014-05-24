@@ -1,0 +1,3 @@
+[
+    { "caption": "Replace HTML Characters", "command": "mega_replace", "args": {"replacement_file": "replace_html.json"} }
+]
